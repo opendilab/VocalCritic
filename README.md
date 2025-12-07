@@ -4,8 +4,9 @@
 
 **VocalCritic: Generative Multi-modal Feedback for Singing Voice Synthesis Evaluation**
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2512.02523)
-[![License](https://img.shields.io/badge/License-MIT-blue)](https://huggingface.co/xiaoyi1734/Multimodal-Reaction-Model)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2512.02523) | [![Model](https://img.shields.io/badge/License-MIT-blue)](https://huggingface.co/xiaoyi1734/Multimodal-Reaction-Model)
+
+🚀 **Accepted to NeurIPS 2025 AI for Music**
 
 *An advanced multimodal audio model for comprehensive vocal and music criticism*
 
@@ -122,7 +123,7 @@ If you use VocalCritic in your research, please cite:
 ```bibtex
 @misc{li2025generative,
       title={Generative Multi-modal Feedback for Singing Voice Synthesis Evaluation}, 
-      author={Xueyan Li and Yuxin Wang and Mengjie Jiang and Qingzi Zhu and Jiang Zhang and Zoey Kim and Yazhe Niu},
+      author={Xueyan Li and Yuxin Wang and Mengjie Jiang and Qingzi Zhu and Jing Zhang and Zoey Kim and Yazhe Niu},
       year={2025},
       eprint={2512.02523},
       archivePrefix={arXiv},
