@@ -4,7 +4,7 @@
 
 **VocalCritic: Generative Multi-modal Feedback for Singing Voice Synthesis Evaluation**
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2512.02523) | [![Model](https://img.shields.io/badge/License-MIT-blue)](https://huggingface.co/xiaoyi1734/Multimodal-Reaction-Model)
+[Paper](https://arxiv.org/abs/2512.02523) | [Model](https://huggingface.co/xiaoyi1734/Multimodal-Reaction-Model)
 
 🚀 **Accepted to NeurIPS 2025 AI for Music**
 
